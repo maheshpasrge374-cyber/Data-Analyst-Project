@@ -162,10 +162,10 @@ Kaggle Supply Chain Dataset
 
 Data modeling and visual analytics
 
-![Delivery Performance](.assets/Delivery%20Performance.png) 
+![Delivery Performance](./assets/Delivery_Performance.png) 
 
  
-![Sales and Customers](.assets/Sales%20and%20Customers.png)
+![Sales and Customers](./assets/Sales_and_Customers.png)
 
 📁 Repository Structure
 
